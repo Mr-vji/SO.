@@ -223,7 +223,7 @@ export default function Logo(props) {
       }
    });
 
-   return (
+   return ( 
       <group {...props}>
          <Text font="/fonts/fonnts.com-Area_Normal_Black.otf">
             SO.
