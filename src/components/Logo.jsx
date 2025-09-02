@@ -328,9 +328,8 @@ export default function Logo(props) {
             scale={1.08}
             font="/fonts/fonnts.com-Area_Normal_Black.otf"
          >
-            .
-            <whiteDot attach="material" />
-            {/* <blackDot attach="material" /> */}
+            .{/* <whiteDot attach="material" /> */}
+            <blackDot attach="material" />
          </Text>
       </group>
    );
